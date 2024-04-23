@@ -2,9 +2,11 @@
     background-color: rgb(255, 97, 97);
     font-family: Verdana, 'dejavu-sans', sans-serif;
 }
-#number2{
+#n2{
 color: rgb(0, 0, 255);
+font-size: 36px;
 }
-#number4{
-
+#n4{
+background-color: rgb(102, 187, 102);
+font-size: 24px;
 }
